@@ -1,0 +1,4 @@
+>>European Data Format (EDF) is a standard file format designed for exchange and storage of medical time series
+So, basically the waves are received as Time series data. Once the model is trained to read the EDF images, we need to re-train it to read real time medical Time series data signals received from the EEG Cap.
+
+>>Spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time
